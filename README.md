@@ -1,9 +1,9 @@
-## NJIT-CS375-AfsheenK
+# NJIT-CS375-AfsheenK
 Intel Image Classification Dataset: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 Description: This dataset was created for the purpose of image classification, specifically for natural scenes. It contains images categorized into six classes: buildings, forest, glacier, mountain, sea, and street. The images were collected from various online sources. The dataset contains approximately 25,000 images, with roughly 2,500 images per class. Key features include images that are RGB (color) with varying resolutions. The primary feature is the pixel data representing the visual content of the scenes.
 
-# Classification Problem:
+## Classification Problem:
 
 Problem: Accurately classify images into the six scene categories (buildings, forest, glacier, mountain, sea, street).
 
@@ -15,7 +15,7 @@ Potential Challenges: Variations in lighting, weather, and camera angles; potent
 
 Real-World Relevance: Environmental monitoring, urban planning, autonomous vehicle navigation, geographic information systems.
 
-# Regression Problem:
+## Regression Problem:
 
 Problem: Estimate the "environmental impact score" of a given scene. For example, a higher score can be assigned to scenes with more human-made structures (buildings, streets) and a lower score to natural scenes (forests, glaciers).
 
