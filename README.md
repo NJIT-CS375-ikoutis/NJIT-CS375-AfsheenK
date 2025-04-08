@@ -1,7 +1,7 @@
 # NJIT-CS375-AfsheenK
 **Intel Image Classification Dataset**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
-Description: This dataset was created for the purpose of image classification, specifically for natural scenes. It contains images categorized into six classes: buildings, forest, glacier, mountain, sea, and street. The images were collected from various online sources. The dataset contains approximately 25,000 images, with roughly 2,500 images per class. Key features include images that are RGB (color) with varying resolutions. The primary feature is the pixel data representing the visual content of the scenes.
+**Description**: This dataset was created for the purpose of image classification, specifically for natural scenes. It contains images categorized into six classes: buildings, forest, glacier, mountain, sea, and street. The images were collected from various online sources. The dataset contains approximately 25,000 images, with roughly 2,500 images per class. Key features include images that are RGB (color) with varying resolutions. The primary feature is the pixel data representing the visual content of the scenes.
 
 ## Classification Problem:
 
